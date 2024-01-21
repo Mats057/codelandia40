@@ -1,6 +1,6 @@
 <h1>Desafio Codelândia #40</h1>
 
-<p>Esse projeto faz parte de um desafio do servidor <a>Codelândia</a>, nele consegui ter o primeiro contato com o TailwindCSS, além disso testei minhas habilidades com diversas tecnologias como Angular, Typescript, ChartJS, Feather.<p>
+<p>Esse projeto faz parte de um desafio do servidor <a href="https://discord.gg/UuRXP4zTJ5" target="_blank">Codelândia</a>, nele consegui ter o primeiro contato com o TailwindCSS, além disso testei minhas habilidades com diversas tecnologias como Angular, Typescript, ChartJS, Feather.<p>
 
 <p>Com esse projeto, pude exercitar diversos componentes do design Web, como responsividade, tabelas, gráficos, grids, e o mobile first.</p><br>
 
